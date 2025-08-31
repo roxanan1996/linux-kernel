@@ -10,9 +10,4 @@ Linux Device Driver Development by John Madieu
 3. Linux Kernel Debugging by Kaiwan N Billimoria
 4. [The official documentation of the kernel](https://www.kernel.org/doc/html/latest/) 
 
-## My notes
-
-- Faux devices vs Platform devices
-- Debugging techniques
-
   
