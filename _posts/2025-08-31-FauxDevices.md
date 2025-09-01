@@ -35,7 +35,7 @@ The faux device is supposed to replace the platform device usage when there is n
 - Device logging via dev_*
   - Defined in [include/linux/dev_printk.h](https://elixir.bootlin.com/linux/v6.16.4/source/include/linux/dev_printk.h)
   - They include a formatted prefix with a device name
-  - When an /sys entry is needed
+- When an /sys entry is needed
 
 The implementation is very simple and can be found at:
 - [include/linux/device/faux.h](https://elixir.bootlin.com/linux/v6.16.4/source/include/linux/device/faux.h)
